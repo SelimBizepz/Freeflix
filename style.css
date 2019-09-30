@@ -41,25 +41,6 @@ body {
   justify-content: center;
 }
 
-.bigcontainer img {
-  min-width: 300px;
-  height: 40%;
-  width: 40%;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 20px;
-  border: solid red 1px
-}
-
-.bigcontainer {
-  margin: 30px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
 @media (max-width: 700px) {
   nav.navbar a {
     display: none;
